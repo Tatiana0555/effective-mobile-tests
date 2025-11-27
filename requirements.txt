@@ -1,0 +1,5 @@
+playwright==1.47.0
+pytest==8.4.2
+pytest-playwright==0.7.1
+allure-pytest==2.15.0
+pytest-base-url==2.1.0
